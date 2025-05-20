@@ -1,5 +1,20 @@
 # 👋 Hi, I'm Daniel Angger!
-Software developer & student passionate about backend development, system design, and open source.
+
+I'm a student passionate about backend development, full-stack systems, and cross-platform apps.
+
+---
+
+## 🚀 Projects
+- 🍽️ [BiteTracker Website](https://github.com/bang-bingung-bang/BiteTracker-web)  
+  Web platform to track snack nutritional values using Django.
+  
+- 📱 [BiteTracker Mobile](https://github.com/bang-bingung-bang/BiteTracker-Mobile)  
+  Flutter-based mobile app companion to BiteTracker.
+
+- 🛍️ [Toko Biru Merah](https://github.com/DanielAngger/tokobirumerah)  
+  A Django-based e-commerce platform built for learning and deployment.
+
+---
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
