@@ -29,3 +29,4 @@ I'm a student passionate about backend development, full-stack systems, and cros
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/daniel-angger-dewandaru-a3a150289)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielangger14)
