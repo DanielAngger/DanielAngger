@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Angger!
+Software developer & student passionate about backend development, system design, and open source.
 
-<!--
-**DanielAngger/DanielAngger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAngger&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/daniel-angger-dewandaru-a3a150289)
