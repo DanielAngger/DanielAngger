@@ -11,4 +11,4 @@ Software developer & student passionate about backend development, system design
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAngger&show_icons=true&theme=tokyonight)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/daniel-angger-dewandaru-a3a150289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/daniel-angger-dewandaru-a3a150289)
