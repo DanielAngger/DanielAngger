@@ -11,10 +11,10 @@ I'm a student passionate about backend development, full-stack systems, and cros
 - 📱 [BiteTracker Mobile](https://github.com/bang-bingung-bang/BiteTracker-Mobile)  
   Flutter-based mobile app companion to BiteTracker.
 
-- 🛍️ [RIZZerve (Backend)]([https://github.com/DanielAngger/tokobirumerah](https://github.com/Advprog2025-B08/back_end_rizzerve))  
+- 🛍️ [RIZZerve (Backend)]([https://github.com/DanielAngger/tokobirumerah](https://github.com/Advprog2025-B08/back_end_rizzerve])
   A Spring Boot-based (backend) food ordering platform built for learning advanced programming and deployment.
 
-- 🛍️ [RIZZerve (Frontend)]([https://github.com/DanielAngger/tokobirumerah](https://github.com/Advprog2025-B08/front_end_rizzerve))
+- 🛍️ [RIZZerve (Frontend)]([https://github.com/DanielAngger/tokobirumerah](https://github.com/Advprog2025-B08/front_end_rizzerve])
   A ReactJS-based food ordering platform built for learning advanced programming and deployment.
 
 ---
